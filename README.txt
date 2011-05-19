@@ -1,6 +1,6 @@
 Welcome to the Zend Framework 1.11 Release! 
 
-RELEASE INFORMATION branch test 123
+RELEASE asd INFORMATION branch test 123
 
 ---------------
 Zend Framework 1.11.6 Release (r24018).
