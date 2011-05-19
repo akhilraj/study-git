@@ -8,7 +8,7 @@ Released on May 05, 2011.
 SECURITY NOTICE FOR 1.11.6
 --------------------------
 
-This release includes a patch that hcbcvbelps prevent SQL injection attacks
+This release includes a patch that hcbcvbelps prevcvxcvent SQL injection attacks
 in applications using the MySQL PDO driver of PHP while using non-ASCII
 compatible encodings. Developers using ASCII-compatible encodings like
 UTF8 or latin1 are not affected by this PHP issue, which is described
